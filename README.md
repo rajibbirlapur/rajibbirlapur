@@ -3,7 +3,7 @@
 💻 Java Backend Developer | Spring Boot Developer  
 🚀 Building REST APIs with Spring Boot & MySQL  
 📚 Currently improving DSA & Backend Development Skills  
-🌱 Open to Remote Part-Time Internship Opportunities  
+🌱 Open to Java Backend Developer job.
 📫 Email: rajib.birlapur@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/rajib-das-96b268141/
 
@@ -23,7 +23,6 @@ I specialize in building RESTful APIs using:
 - Exception Handling
 
 I am actively looking for:
-✔ Remote Part-Time Backend Internship  
 ✔ Junior Java Backend Developer Role  
 
 ---
