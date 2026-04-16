@@ -3,7 +3,7 @@
 💻 **Java Backend Developer | Spring Boot Developer**
 🚀 Building scalable REST APIs with Spring Boot & MySQL
 📚 Currently improving DSA & Backend Development Skills
-🌱 Open to **Junior Java Backend Developer** roles
+🌱 Open to **Java Backend Developer** roles
 
 📫 Email: [rajib.birlapur@gmail.com](mailto:rajib.birlapur@gmail.com)
 🔗 LinkedIn: https://www.linkedin.com/in/rajib-das-96b268141/
